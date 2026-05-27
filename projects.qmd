@@ -2,12 +2,7 @@
 title: "Projects"
 listing:
   - id: projects-listing
-    contents:
-    - "projects/project_01/project_01.qmd"
-    - "projects/project_02/project_02.qmd"
-    - "projects/project_03/project_03.qmd"
-    - "projects/project_04/project_04.qmd"
-    - "projects/project_05/project_05.qmd"
+    contents: projects
     type: grid
     sort: false
     sort-ui: true

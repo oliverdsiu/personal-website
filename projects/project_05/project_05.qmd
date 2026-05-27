@@ -38,4 +38,4 @@ This project demonstrates relational database design and SQL expertise through a
 
 [Project Report](fansub_demo.pdf)
 
-[Github Repository](https://github.com/odspro-ucla/fansub-workflow-db)
+[Github Repository](https://github.com/oliverdsiu/covid-city)

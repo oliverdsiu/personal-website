@@ -32,4 +32,4 @@ This report investigates the impact of COVID-19 lockdown policies on spending, a
 
 [Project Report](covid-city-report.pdf)
 
-[Github Repository](https://github.com/odspro-ucla/covid-city)
+[Github Repository](https://github.com/oliverdsiu/covid-city)

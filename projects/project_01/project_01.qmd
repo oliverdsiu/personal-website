@@ -29,4 +29,4 @@ This research project was sparked by observations of the diverse relationships A
 
 [Project Site](https://comparebnb.netlify.app/)
 
-[Github Repository](https://github.com/odspro-ucla/comparebnb)
+[Github Repository](https://github.com/oliverdsiu/comparebnb)

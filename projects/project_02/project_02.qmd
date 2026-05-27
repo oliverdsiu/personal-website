@@ -29,4 +29,4 @@ Caffeine is one of the most commonly consumed legal drugs on the market, boastin
 
 [Project Report](island-caffeine-report.pdf)
 
-[Github Repository](https://github.com/odspro-ucla/caffeine-island)
+[Github Repository](https://github.com/oliverdsiu/caffeine-island)

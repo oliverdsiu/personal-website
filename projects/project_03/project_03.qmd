@@ -30,4 +30,4 @@ This analysis aims to explore patterns in voting behavior using demographic and 
 
 [Project Report](2020_exit-poll_report.pdf)
 
-[Github Repository](https://github.com/odspro-ucla/2020_exit-poll)
+[Github Repository](https://github.com/oliverdsiu/2020_exit-poll)

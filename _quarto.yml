@@ -18,7 +18,7 @@ website:
         text: About
         
   page-footer:
-    right: "&copy; 2025 Oliver Siu"
+    right: "&copy; {{< now year >}} Oliver Siu"
 
 format:
   html:

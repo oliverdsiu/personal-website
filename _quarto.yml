@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Oliver Siu"
+  favicon: profile.png
   navbar:
     right:
       

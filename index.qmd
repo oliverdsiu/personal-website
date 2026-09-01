@@ -15,19 +15,23 @@ about:
       
     - icon: inbox-fill
       text: Email
-      url: "mailto:odspro@ucla.edu"
+      url: "mailto:oliverdsiu@gmail.com"
       
     - icon: file-text-fill
-      text: Résume
+      text: Résumé
       url: "resume.pdf"
       
 ---
 
 ## Hello!
 
-I'm Oliver, a statistician passionate about data science and machine learning. Check out my projects and learn how I can contribute to your team!
+I'm Oliver, a statistician passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!
 
 ## Education
+
+**University of Chicago** \
+Master of Science, Applied Data Science \
+Expected June 2028
 
 **University of California, Los Angeles (UCLA)** \
 Bachelor of Science, Statistics & Data Science \

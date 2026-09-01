@@ -4,7 +4,9 @@ title: "About Me"
 
 ## Background
 
-I'm a Statistics and Data Science graduate from UCLA with experience in Python, R, and SQL. My nontraditional path to higher education took me to many places across the globe including Hong Kong, Taiwan, and Tahiti, to name a few. Navigating different languages and cultures developed strong adaptability and pattern recognition skills that I bring to data analysis and problem-solving.
+I'm currently pursuing my Master's in Applied Data Science, at the University of Chicago, and I recently graduated from UCLA where I majored in Statistics and Data Science.
+
+I'm experienced with Python, R, and SQL. My nontraditional path to higher education took me to many places across the globe including Hong Kong, Taiwan, and Tahiti, to name a few. Navigating different languages and cultures developed strong adaptability and pattern recognition skills that I bring to data analysis and problem-solving.
 
 ## Hobbies
 
@@ -22,7 +24,7 @@ I'm a Statistics and Data Science graduate from UCLA with experience in Python, 
 
   - **Coding Languages:** R, Python, SQL
   - **Technical Software:** Visual Studio Code, RStudio, JupyterLab, Microsoft Office
-  - **Creative Software:** Tableau, Voyant Tools, Ableton Live, Sibelius, Finale, Adobe Creative Suite (After Effects, Audition, Illustrator, Media Encoder, Photoshop, and Premiere Pro)
+  - **Creative Software:** Tableau, Voyant Tools, Ableton Live, Sibelius, Finale, Adobe Creative Cloud (After Effects, Audition, Illustrator, Media Encoder, Photoshop, and Premiere Pro)
   - **Languages:**
     - Primary Language: English
     - Fluent in verbal Mandarin and Cantonese

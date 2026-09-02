@@ -14,7 +14,7 @@ about:
 ## Project Details
 
   - Project Type: Academic Group Project
-  - Role: Lead Data Engineer
+  - Role: Lead Data Scientist
   - Responsibilities:
     - Guided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.
     - Integrated logistic regression and random forest machine learning algorithms to predict the election outcome with an 85% accuracy rate.

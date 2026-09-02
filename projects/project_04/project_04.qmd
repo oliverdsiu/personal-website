@@ -19,7 +19,7 @@ about:
     - Collaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.
     - Edited and formatted the project report adhering to [IEEE](https://www.ieee.org/) `.Rtex` standards.
     - Compiled and edited project code to ensure reproducibility
-  - Designed `Figure 1: Histograms`, included in the report.
+  - Designed `Figure 1: Histograms`, included in the final report.
 
 
 ## Abstract

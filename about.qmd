@@ -4,9 +4,7 @@ title: "About Me"
 
 ## Background
 
-I'm currently pursuing my Master's in Applied Data Science, at the University of Chicago, and I recently graduated from UCLA where I majored in Statistics and Data Science.
-
-I'm experienced with Python, R, and SQL. My nontraditional path to higher education took me to many places across the globe including Hong Kong, Taiwan, and Tahiti, to name a few. Navigating different languages and cultures developed strong adaptability and pattern recognition skills that I bring to data analysis and problem-solving.
+Passionate about data-driven storytelling, going beyond presenting raw data to designing tools that provide actionable insights. Currently pursuing my Master's in Applied Data Science at the University of Chicago. I bring strong adaptability from a nontraditional, international background, and a proven ability to deliver under tight deadlines.
 
 ## Hobbies
 
@@ -33,4 +31,4 @@ I'm experienced with Python, R, and SQL. My nontraditional path to higher educat
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oliver-siu/) or check out my projects on [Github](https://github.com/oliverdsiu).
 
-I look forward to discussing how I can contribute to your team!
+Looking forward to discussing how I can contribute to your team!

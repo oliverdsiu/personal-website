@@ -10,7 +10,7 @@ about:
       href: https://www.linkedin.com/in/oliver-siu/
       
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/oliverdsiu
       
     - icon: inbox-fill

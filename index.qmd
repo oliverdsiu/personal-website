@@ -25,7 +25,7 @@ about:
 
 ## Hello!
 
-I'm Oliver, a statistician passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!
+I'm Oliver, a data scientist passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!
 
 ## Education
 

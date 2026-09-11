@@ -4,91 +4,98 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nodspro Subs Workflow Database\n\n\n\nPersonal\n\n\nDatabase\n\n\nSQL\n\n\n\nComprehensive database system analyzing donghua fansubbing workflows and translation challenges.\n\n\n\n\n\n\nJul 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\n\nInferential Statistics\n\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nOdsLog\n\n\n\nPersonal\n\n\nPython\n\n\nSQL\n\n\nDesktop Application\n\n\n\nLightweight desktop application for tracking fleet service and cost across vehicles, heavy equipment, and hand tools\n\n\n\n\n\n\nSep 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nodspro Subs Workflow Database\n\n\n\nPersonal\n\n\nDatabase\n\n\nSQL\n\n\n\nComprehensive database system analyzing donghua fansubbing workflows and translation challenges.\n\n\n\n\n\n\nJul 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID City\n\n\n\nGroup\n\n\nInferential Statistics\n\n\nSocial Impact\n\n\n\nHow Different Lockdown Measures within the United States Have Affected the Economy since COVID-19.\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Exit Polls\n\n\n\nGroup\n\n\nMachine Learning\n\n\nSocial Impact\n\n\n\nPredictive modeling of the 2020 U.S. Presidential Election.\n\n\n\n\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Island\n\n\n\nGroup\n\n\nExperiment\n\n\nCognitive Analysis\n\n\n\nInvestigating the effects of caffeine consumption on human cognitive function.\n\n\n\n\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparebnb\n\n\n\nGroup\n\n\nWeb Development\n\n\nSocial Impact\n\n\n\nSocioeconomic analysis of the Airbnb’s operations in London and New York City.\n\n\n\n\n\n\nDec 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/project_04/project_04.html",
-    "href": "projects/project_04/project_04.html",
-    "title": "COVID City",
+    "objectID": "projects/project_05/project_05.html",
+    "href": "projects/project_05/project_05.html",
+    "title": "odspro Subs Workflow Database",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Editor\nResponsibilities:\n\nCollaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.\nEdited and formatted the project report adhering to IEEE .Rtex standards.\nCompiled and edited project code to ensure reproducibility\n\nDesigned Figure 1: Histograms, included in the final report."
+    "text": "Project Type: Personal Project\nRole: Solo Developer & Database Designer\nKey Achievements:\n\nArchitected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.\nAutomated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.\nUncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks."
   },
   {
-    "objectID": "projects/project_04/project_04.html#project-details",
-    "href": "projects/project_04/project_04.html#project-details",
-    "title": "COVID City",
+    "objectID": "projects/project_05/project_05.html#project-details",
+    "href": "projects/project_05/project_05.html#project-details",
+    "title": "odspro Subs Workflow Database",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Editor\nResponsibilities:\n\nCollaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.\nEdited and formatted the project report adhering to IEEE .Rtex standards.\nCompiled and edited project code to ensure reproducibility\n\nDesigned Figure 1: Histograms, included in the final report."
+    "text": "Project Type: Personal Project\nRole: Solo Developer & Database Designer\nKey Achievements:\n\nArchitected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.\nAutomated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.\nUncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks."
   },
   {
-    "objectID": "projects/project_04/project_04.html#abstract",
-    "href": "projects/project_04/project_04.html#abstract",
-    "title": "COVID City",
+    "objectID": "projects/project_05/project_05.html#abstract",
+    "href": "projects/project_05/project_05.html#abstract",
+    "title": "odspro Subs Workflow Database",
     "section": "Abstract",
-    "text": "Abstract\nThis report investigates the impact of COVID-19 lockdown policies on spending, and whether said policies impacted the economic recovery of a city. We chose to focus on New York City, New York, a state that enforced a mandatory lockdown, and Omaha, Nebraska, a state that did not issue any stay-at-home or complete lockdown orders. This report uses data from the Opportunity Insights data tracker, a non-partisan, not-for-profit organization located at Harvard University. In order to conduct this analysis, we created several time series plots and conducted t-tests using our chosen variables. We found that spending overall was significantly different in the two cities – spending in arts and entertainment decreased while grocery spending increased in New York City, and arts spending increased while grocery spending remained unaffected in Omaha. Our t-tests indicate a significant difference as well, with a p-value \\(&lt; 0.05\\). In conjunction, our t-tests and time series plots both suggest a rejection of the null hypothesis, thus, we conclude that lockdown policies have an impact on spending. However, due to our limiting factors (mainly the confounding variables which occur due to the differences in population, primary industry, and other aspects of the two cities), we are unable to concretely determine the exact impact lockdown policies have. Still, we believe our analysis could result in useful contributions regarding policy decisions, namely the impact that national disasters may have on spending and potential areas of impact to focus on."
+    "text": "Abstract\nThis project demonstrates relational database design and SQL expertise through a donghua fansubbing workflow management system. Built from scratch with eight normalized tables and optimized queries, the database tracks 80+ episodes revealing significant production irregularities: 8-24 episodes per season, runtime variations (14-44 minutes), and fluctuating technical specifications. Advanced SQL analysis quantifies donghua’s unique workflow challenges compared to standardized anime production, showcasing database implementation skills including proper indexing, foreign key constraints, and complex query optimization for real-world data management."
   },
   {
-    "objectID": "projects/project_04/project_04.html#links",
-    "href": "projects/project_04/project_04.html#links",
-    "title": "COVID City",
-    "section": "Links",
-    "text": "Links\nProject Poster\nProject Report\nGitHub Repository"
+    "objectID": "projects/project_05/project_05.html#key-findings",
+    "href": "projects/project_05/project_05.html#key-findings",
+    "title": "odspro Subs Workflow Database",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nProduction Variability: Discovered extreme inconsistencies in donghua production with episode counts varying from 8-24 per season and runtime fluctuations of nearly 30 minutes between episodes.\nTechnical Challenges: Identified non-standardized video resolutions requiring constant subtitle script adjustments, creating additional workflow overhead for fansubbers.\nResource Allocation: Analysis revealed that only 24 of 80 episodes received revisions, with some taking over 4 years between completion and first revision, highlighting resource constraints in volunteer translation communities.\nWorkflow Impact: Quantified how production irregularities force donghua fansubbers to continuously adapt workflows, unlike standardized anime production patterns."
   },
   {
-    "objectID": "projects/project_02/project_02.html",
-    "href": "projects/project_02/project_02.html",
-    "title": "Caffeine Island",
-    "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
-  },
-  {
-    "objectID": "projects/project_02/project_02.html#project-details",
-    "href": "projects/project_02/project_02.html#project-details",
-    "title": "Caffeine Island",
-    "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
-  },
-  {
-    "objectID": "projects/project_02/project_02.html#abstract",
-    "href": "projects/project_02/project_02.html#abstract",
-    "title": "Caffeine Island",
-    "section": "Abstract",
-    "text": "Abstract\nCaffeine is one of the most commonly consumed legal drugs on the market, boasting various effects ranging from improved physiological capabilities to addictions. This investigative project challenges the validity of popular claims that caffeine can improve mental performance such as increasing a person’s attention span. A simulated island population was utilized to research the effects of caffeine with a Replicated Latin Square Design to experiment. 63 participants were selected to participate in the study and were assigned one of 3 levels of caffeine, and each participant underwent a 10-minute attention test before and after taking their assigned amount of caffeine. The differences in their test results were compared, and these differences found that caffeine did not have a significant effect on any participant’s attention test scores. Caffeine has many known practical and popular uses in consumer products, but it may not be suitable for maintaining a person’s attention span. Further research is recommended to ascertain caffeine’s exact benefits and drawbacks. As with any drug, caffeine should be consumed in moderation, and consumers using caffeine as a performance enhancer should ensure to consume caffeine for the appropriate tasks."
-  },
-  {
-    "objectID": "projects/project_02/project_02.html#links",
-    "href": "projects/project_02/project_02.html#links",
-    "title": "Caffeine Island",
+    "objectID": "projects/project_05/project_05.html#links",
+    "href": "projects/project_05/project_05.html#links",
+    "title": "odspro Subs Workflow Database",
     "section": "Links",
     "text": "Links\nProject Report\nGitHub Repository"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oliver Siu",
+    "objectID": "projects/project_03/project_03.html",
+    "href": "projects/project_03/project_03.html",
+    "title": "2020 Exit Polls",
     "section": "",
-    "text": "I’m Oliver, a data scientist passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!"
+    "text": "Project Type: Academic Group Project\nRole: Lead Data Scientist\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with an 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
   },
   {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "Oliver Siu",
+    "objectID": "projects/project_03/project_03.html#project-details",
+    "href": "projects/project_03/project_03.html#project-details",
+    "title": "2020 Exit Polls",
     "section": "",
-    "text": "I’m Oliver, a data scientist passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!"
+    "text": "Project Type: Academic Group Project\nRole: Lead Data Scientist\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with an 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Oliver Siu",
-    "section": "Education",
-    "text": "Education\nUniversity of Chicago\nMaster of Science, Applied Data Science\nExpected June 2028\nUniversity of California, Los Angeles (UCLA)\nBachelor of Science, Statistics & Data Science\nJune 2025\nSaddleback College\nAssociate in Science – Transfer, Mathematics\nMay 2023"
+    "objectID": "projects/project_03/project_03.html#abstract",
+    "href": "projects/project_03/project_03.html#abstract",
+    "title": "2020 Exit Polls",
+    "section": "Abstract",
+    "text": "Abstract\nThis analysis aims to explore patterns in voting behavior using demographic and social attitude data. Utilizing logistic regression and random forest, we identified variables such as higher education levels, support for legal abortion, and belief in climate change as positively associated with voting Democratic, while better financial situations and Christian religious affiliations were negatively associated with voting Democratic. A model with 6 predictors was determined to be most applicable with a prediction accuracy of 85% and a ROC AUC score of 0.91. Future efforts should focus on standardizing survey questions to minimize the number of survey versions and and increase effective sample size and representation which will improve model accuracy."
   },
   {
-    "objectID": "index.html#volunteer-experience",
-    "href": "index.html#volunteer-experience",
-    "title": "Oliver Siu",
-    "section": "Volunteer Experience",
-    "text": "Volunteer Experience\nGrace of Jesus Christ Crusade\nAudio Engineer\nJuly 2014 - December 2017"
+    "objectID": "projects/project_03/project_03.html#links",
+    "href": "projects/project_03/project_03.html#links",
+    "title": "2020 Exit Polls",
+    "section": "Links",
+    "text": "Links\nProject Report\nGitHub Repository"
+  },
+  {
+    "objectID": "projects/project_01/project_01.html",
+    "href": "projects/project_01/project_01.html",
+    "title": "Comparebnb",
+    "section": "",
+    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
+  },
+  {
+    "objectID": "projects/project_01/project_01.html#project-details",
+    "href": "projects/project_01/project_01.html#project-details",
+    "title": "Comparebnb",
+    "section": "",
+    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
+  },
+  {
+    "objectID": "projects/project_01/project_01.html#summary",
+    "href": "projects/project_01/project_01.html#summary",
+    "title": "Comparebnb",
+    "section": "Summary",
+    "text": "Summary\nThis research project was sparked by observations of the diverse relationships Airbnb establishes with various cities worldwide. In examining the impact of Airbnb’s operation on the socioeconomic aspects of London and New York City, this project aimed to uncover the key differences between these two influential cities. A particular interest was aimed in understanding how regulatory adjustments have influenced the supply and demand for short-term rentals and, subsequently, how these changes affect affordability and housing availability."
+  },
+  {
+    "objectID": "projects/project_01/project_01.html#links",
+    "href": "projects/project_01/project_01.html#links",
+    "title": "Comparebnb",
+    "section": "Links",
+    "text": "Links\nProject Site\nGitHub Repository"
   },
   {
     "objectID": "about.html",
@@ -126,94 +133,115 @@
     "text": "Let’s Connect!\nFeel free to reach out to me on LinkedIn or check out my projects on GitHub.\nLooking forward to discussing how I can contribute to your team!"
   },
   {
-    "objectID": "projects/project_01/project_01.html",
-    "href": "projects/project_01/project_01.html",
-    "title": "Comparebnb",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oliver Siu",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
+    "text": "I’m Oliver, a data scientist passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!"
   },
   {
-    "objectID": "projects/project_01/project_01.html#project-details",
-    "href": "projects/project_01/project_01.html#project-details",
-    "title": "Comparebnb",
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Oliver Siu",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Web Designer\nResponsibilities:\n\nCollaborated in a team of six to investigate, critique, and publish the socioeconomic impacts of Airbnb on various cities.\nSole website architect spearheading website design, compatibility, and accessibility functions under a 16-hour deadline, ensuring full screen reader compatibility and a 0-error WAVE Evaluation score.\nResponsible for Figures 1 and 10.\n\nCo-wrote Datsets, Overview, and Conclusion pages."
+    "text": "I’m Oliver, a data scientist passionate about data-driven storytelling that helps design useful tools. Check out my projects and learn how I can contribute to your team!"
   },
   {
-    "objectID": "projects/project_01/project_01.html#summary",
-    "href": "projects/project_01/project_01.html#summary",
-    "title": "Comparebnb",
-    "section": "Summary",
-    "text": "Summary\nThis research project was sparked by observations of the diverse relationships Airbnb establishes with various cities worldwide. In examining the impact of Airbnb’s operation on the socioeconomic aspects of London and New York City, this project aimed to uncover the key differences between these two influential cities. A particular interest was aimed in understanding how regulatory adjustments have influenced the supply and demand for short-term rentals and, subsequently, how these changes affect affordability and housing availability."
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Oliver Siu",
+    "section": "Education",
+    "text": "Education\nUniversity of Chicago\nMaster of Science, Applied Data Science\nExpected June 2028\nUniversity of California, Los Angeles (UCLA)\nBachelor of Science, Statistics & Data Science\nJune 2025\nSaddleback College\nAssociate in Science – Transfer, Mathematics\nMay 2023"
   },
   {
-    "objectID": "projects/project_01/project_01.html#links",
-    "href": "projects/project_01/project_01.html#links",
-    "title": "Comparebnb",
-    "section": "Links",
-    "text": "Links\nProject Site\nGitHub Repository"
+    "objectID": "index.html#volunteer-experience",
+    "href": "index.html#volunteer-experience",
+    "title": "Oliver Siu",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\nGrace of Jesus Christ Crusade\nAudio Engineer\nJuly 2014 - December 2017"
   },
   {
-    "objectID": "projects/project_03/project_03.html",
-    "href": "projects/project_03/project_03.html",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html",
+    "href": "projects/project_02/project_02.html",
+    "title": "Caffeine Island",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Data Scientist\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with an 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
+    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
   },
   {
-    "objectID": "projects/project_03/project_03.html#project-details",
-    "href": "projects/project_03/project_03.html#project-details",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html#project-details",
+    "href": "projects/project_02/project_02.html#project-details",
+    "title": "Caffeine Island",
     "section": "",
-    "text": "Project Type: Academic Group Project\nRole: Lead Data Scientist\nResponsibilities:\n\nGuided a team of five to develop a predictive model for the 2020 U.S. Presidential Election using exit poll data.\nIntegrated logistic regression and random forest machine learning algorithms to predict the election outcome with an 85% accuracy rate.\nDesigned 20+ visualizations included in the final report.\n\nCo-wrote Model Selection, Model Assumptions, and Results sections."
+    "text": "Project Type: Academic Group Project\nRole: Data Analyst\nResponsibilities:\n\nContributed in a team of seven to investigate the effects of caffeine consumption on human cognitive function, utilizing The Islands virtual simulation platform from The University of Queensland.\nDetermined a lack of improvement in cognitive function with caffeine consumption through Analysis of Variance (ANOVA).\nCoordinated with team members to distribute caffeine doses and record cognitive function scores with minimal confounding factors.\n\nCo-wrote Introduction section."
   },
   {
-    "objectID": "projects/project_03/project_03.html#abstract",
-    "href": "projects/project_03/project_03.html#abstract",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html#abstract",
+    "href": "projects/project_02/project_02.html#abstract",
+    "title": "Caffeine Island",
     "section": "Abstract",
-    "text": "Abstract\nThis analysis aims to explore patterns in voting behavior using demographic and social attitude data. Utilizing logistic regression and random forest, we identified variables such as higher education levels, support for legal abortion, and belief in climate change as positively associated with voting Democratic, while better financial situations and Christian religious affiliations were negatively associated with voting Democratic. A model with 6 predictors was determined to be most applicable with a prediction accuracy of 85% and a ROC AUC score of 0.91. Future efforts should focus on standardizing survey questions to minimize the number of survey versions and and increase effective sample size and representation which will improve model accuracy."
+    "text": "Abstract\nCaffeine is one of the most commonly consumed legal drugs on the market, boasting various effects ranging from improved physiological capabilities to addictions. This investigative project challenges the validity of popular claims that caffeine can improve mental performance such as increasing a person’s attention span. A simulated island population was utilized to research the effects of caffeine with a Replicated Latin Square Design to experiment. 63 participants were selected to participate in the study and were assigned one of 3 levels of caffeine, and each participant underwent a 10-minute attention test before and after taking their assigned amount of caffeine. The differences in their test results were compared, and these differences found that caffeine did not have a significant effect on any participant’s attention test scores. Caffeine has many known practical and popular uses in consumer products, but it may not be suitable for maintaining a person’s attention span. Further research is recommended to ascertain caffeine’s exact benefits and drawbacks. As with any drug, caffeine should be consumed in moderation, and consumers using caffeine as a performance enhancer should ensure to consume caffeine for the appropriate tasks."
   },
   {
-    "objectID": "projects/project_03/project_03.html#links",
-    "href": "projects/project_03/project_03.html#links",
-    "title": "2020 Exit Polls",
+    "objectID": "projects/project_02/project_02.html#links",
+    "href": "projects/project_02/project_02.html#links",
+    "title": "Caffeine Island",
     "section": "Links",
     "text": "Links\nProject Report\nGitHub Repository"
   },
   {
-    "objectID": "projects/project_05/project_05.html",
-    "href": "projects/project_05/project_05.html",
-    "title": "odspro Subs Workflow Database",
+    "objectID": "projects/project_04/project_04.html",
+    "href": "projects/project_04/project_04.html",
+    "title": "COVID City",
     "section": "",
-    "text": "Project Type: Personal Project\nRole: Solo Developer & Database Designer\nKey Achievements:\n\nArchitected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.\nAutomated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.\nUncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks."
+    "text": "Project Type: Academic Group Project\nRole: Editor\nResponsibilities:\n\nCollaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.\nEdited and formatted the project report adhering to IEEE .Rtex standards.\nCompiled and edited project code to ensure reproducibility\n\nDesigned Figure 1: Histograms, included in the final report."
   },
   {
-    "objectID": "projects/project_05/project_05.html#project-details",
-    "href": "projects/project_05/project_05.html#project-details",
-    "title": "odspro Subs Workflow Database",
+    "objectID": "projects/project_04/project_04.html#project-details",
+    "href": "projects/project_04/project_04.html#project-details",
+    "title": "COVID City",
     "section": "",
-    "text": "Project Type: Personal Project\nRole: Solo Developer & Database Designer\nKey Achievements:\n\nArchitected and implemented a comprehensive relational database system with normalized 8-table schema, optimized indexing, and foreign key constraints to manage donghua (Chinese animation) fansubbing workflows across 80+ episodes.\nAutomated metadata extraction pipeline using R and ffprobe, eliminating manual data entry and ensuring consistent data quality.\nUncovered production irregularities through SQL analysis and delivered actionable insights through data visualizations that quantified workflow inefficiencies and resource bottlenecks."
+    "text": "Project Type: Academic Group Project\nRole: Editor\nResponsibilities:\n\nCollaborated in a team of six to investigate the economic impact of COVID-19 lockdown policies on New York City and Omaha.\nEdited and formatted the project report adhering to IEEE .Rtex standards.\nCompiled and edited project code to ensure reproducibility\n\nDesigned Figure 1: Histograms, included in the final report."
   },
   {
-    "objectID": "projects/project_05/project_05.html#abstract",
-    "href": "projects/project_05/project_05.html#abstract",
-    "title": "odspro Subs Workflow Database",
+    "objectID": "projects/project_04/project_04.html#abstract",
+    "href": "projects/project_04/project_04.html#abstract",
+    "title": "COVID City",
     "section": "Abstract",
-    "text": "Abstract\nThis project demonstrates relational database design and SQL expertise through a donghua fansubbing workflow management system. Built from scratch with eight normalized tables and optimized queries, the database tracks 80+ episodes revealing significant production irregularities: 8-24 episodes per season, runtime variations (14-44 minutes), and fluctuating technical specifications. Advanced SQL analysis quantifies donghua’s unique workflow challenges compared to standardized anime production, showcasing database implementation skills including proper indexing, foreign key constraints, and complex query optimization for real-world data management."
+    "text": "Abstract\nThis report investigates the impact of COVID-19 lockdown policies on spending, and whether said policies impacted the economic recovery of a city. We chose to focus on New York City, New York, a state that enforced a mandatory lockdown, and Omaha, Nebraska, a state that did not issue any stay-at-home or complete lockdown orders. This report uses data from the Opportunity Insights data tracker, a non-partisan, not-for-profit organization located at Harvard University. In order to conduct this analysis, we created several time series plots and conducted t-tests using our chosen variables. We found that spending overall was significantly different in the two cities – spending in arts and entertainment decreased while grocery spending increased in New York City, and arts spending increased while grocery spending remained unaffected in Omaha. Our t-tests indicate a significant difference as well, with a p-value \\(&lt; 0.05\\). In conjunction, our t-tests and time series plots both suggest a rejection of the null hypothesis, thus, we conclude that lockdown policies have an impact on spending. However, due to our limiting factors (mainly the confounding variables which occur due to the differences in population, primary industry, and other aspects of the two cities), we are unable to concretely determine the exact impact lockdown policies have. Still, we believe our analysis could result in useful contributions regarding policy decisions, namely the impact that national disasters may have on spending and potential areas of impact to focus on."
   },
   {
-    "objectID": "projects/project_05/project_05.html#key-findings",
-    "href": "projects/project_05/project_05.html#key-findings",
-    "title": "odspro Subs Workflow Database",
-    "section": "Key Findings",
-    "text": "Key Findings\n\nProduction Variability: Discovered extreme inconsistencies in donghua production with episode counts varying from 8-24 per season and runtime fluctuations of nearly 30 minutes between episodes.\nTechnical Challenges: Identified non-standardized video resolutions requiring constant subtitle script adjustments, creating additional workflow overhead for fansubbers.\nResource Allocation: Analysis revealed that only 24 of 80 episodes received revisions, with some taking over 4 years between completion and first revision, highlighting resource constraints in volunteer translation communities.\nWorkflow Impact: Quantified how production irregularities force donghua fansubbers to continuously adapt workflows, unlike standardized anime production patterns."
-  },
-  {
-    "objectID": "projects/project_05/project_05.html#links",
-    "href": "projects/project_05/project_05.html#links",
-    "title": "odspro Subs Workflow Database",
+    "objectID": "projects/project_04/project_04.html#links",
+    "href": "projects/project_04/project_04.html#links",
+    "title": "COVID City",
     "section": "Links",
-    "text": "Links\nProject Report\nGitHub Repository"
+    "text": "Links\nProject Poster\nProject Report\nGitHub Repository"
+  },
+  {
+    "objectID": "projects/project_06/project_06.html",
+    "href": "projects/project_06/project_06.html",
+    "title": "OdsLog",
+    "section": "",
+    "text": "Project Type: Personal Software Project\nRole: Solo Developer\nKey Achievements:\n\nDeveloped an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, heavy equipment, and hand tools\nArchitected a relational database schema spanning assets, service schedules, companies, and technicians\nDesigned dashboards translating raw fleet data into actionable maintenance insights\nAuthored a full user manual covering installation, screens, and database structure"
+  },
+  {
+    "objectID": "projects/project_06/project_06.html#project-details",
+    "href": "projects/project_06/project_06.html#project-details",
+    "title": "OdsLog",
+    "section": "",
+    "text": "Project Type: Personal Software Project\nRole: Solo Developer\nKey Achievements:\n\nDeveloped an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, heavy equipment, and hand tools\nArchitected a relational database schema spanning assets, service schedules, companies, and technicians\nDesigned dashboards translating raw fleet data into actionable maintenance insights\nAuthored a full user manual covering installation, screens, and database structure"
+  },
+  {
+    "objectID": "projects/project_06/project_06.html#background",
+    "href": "projects/project_06/project_06.html#background",
+    "title": "OdsLog",
+    "section": "Background",
+    "text": "Background\nOdsLog was built from personal experience as a mechanic, understanding the needs of the field firsthand. Part of my role involved digitizing records into a dedicated proprietary database application, pulling data from both paper logs in glove boxes and electronic spreadsheets. The application produced polished reports that management liked, but was ultimately abandoned a few years later. It cost money to maintain, individual Excel files were often faster for day-to-day use, and the periodic reviews it was built to support happened rarely enough that a manual report became the simpler choice. OdsLog is my attempt to apply that real-world understanding, this time with a tool built to last: no cost, no proprietary format.\nFor a mechanic maintaining a small-scale fleet (80+ vehicles and machinery), speed and data portability are key. OdsLog comes prepackaged with a sample data generator to show you what that scenario looks like, and the manual includes a full walkthrough if you’d like to see the application in action.\nThanks for taking a look!\n\nDashboardFleetServiceReports"
+  },
+  {
+    "objectID": "projects/project_06/project_06.html#links",
+    "href": "projects/project_06/project_06.html#links",
+    "title": "OdsLog",
+    "section": "Links",
+    "text": "Links\n Get OdsLog\n User Manual\n GitHub Repository"
   }
 ]

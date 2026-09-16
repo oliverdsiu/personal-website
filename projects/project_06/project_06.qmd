@@ -22,13 +22,6 @@ about:
     - Designed [dashboards](https://odslog-manual.netlify.app/dashboard#summary-tab) translating raw fleet data into actionable maintenance insights
     - Authored a full user manual covering installation, screens, and database structure
 
-
-•	Developed an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, equipment, and tools
-•	Created custom UI debugging tools to trace a widget-clipping defect to a table framework's default cell padding
-•	Resolved an LGPL requirement by selecting modular packaging over a single-file executable
-
-
-
 ## Background
 
 OdsLog was built from my personal experience as a mechanic, understanding the needs of the field firsthand. Part of my role involved digitizing records into a dedicated proprietary database application, pulling data from both paper logs in glove boxes and electronic spreadsheets. The application produced polished reports that management liked, but was ultimately abandoned a few years later. It cost money to maintain, individual Excel files were often faster for day-to-day use, and the periodic reviews it was built to support happened rarely enough that a manual report became the simpler choice. OdsLog is my attempt to apply that real-world understanding, this time with a tool built to last: no cost, no proprietary format.

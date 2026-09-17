@@ -221,14 +221,14 @@
     "href": "projects/project_06/project_06.html",
     "title": "OdsLog",
     "section": "",
-    "text": "Project Type: Personal Software Project\nRole: Solo Developer\nKey Achievements:\n\nDeveloped an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, equipment, and tools\nCreated custom UI debugging tools to trace a widget-clipping defect to a table framework’s default cell padding\nResolved an LGPL requirement by selecting modular packaging over a single-file executable\nDesigned dashboards translating raw fleet data into actionable maintenance insights\nAuthored a full user manual covering installation, screens, and database structure"
+    "text": "Project Type: Personal Software Project\nRole: Solo Developer\nKey Achievements:\n\nDeveloped an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, equipment, and tools\nIdentified a structural flaw in an over-normalized schema AI couldn’t catch and redesigned it into the application’s core template system\nBuilt custom debug tooling to diagnose a Qt clipping defect after standard fixes failed, tracing it to a framework-level default setting\nIntegrated an in-app sample database generator to evaluate dashboards at real fleet scale, surfacing what tasks need attention first\nAuthored a user manual enabling full self-service onboarding for a solo-built application with no support team"
   },
   {
     "objectID": "projects/project_06/project_06.html#project-details",
     "href": "projects/project_06/project_06.html#project-details",
     "title": "OdsLog",
     "section": "",
-    "text": "Project Type: Personal Software Project\nRole: Solo Developer\nKey Achievements:\n\nDeveloped an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, equipment, and tools\nCreated custom UI debugging tools to trace a widget-clipping defect to a table framework’s default cell padding\nResolved an LGPL requirement by selecting modular packaging over a single-file executable\nDesigned dashboards translating raw fleet data into actionable maintenance insights\nAuthored a full user manual covering installation, screens, and database structure"
+    "text": "Project Type: Personal Software Project\nRole: Solo Developer\nKey Achievements:\n\nDeveloped an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, equipment, and tools\nIdentified a structural flaw in an over-normalized schema AI couldn’t catch and redesigned it into the application’s core template system\nBuilt custom debug tooling to diagnose a Qt clipping defect after standard fixes failed, tracing it to a framework-level default setting\nIntegrated an in-app sample database generator to evaluate dashboards at real fleet scale, surfacing what tasks need attention first\nAuthored a user manual enabling full self-service onboarding for a solo-built application with no support team"
   },
   {
     "objectID": "projects/project_06/project_06.html#background",

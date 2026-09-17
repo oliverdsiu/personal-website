@@ -17,10 +17,10 @@ about:
   - Role: Solo Developer
   - Key Achievements:
     - Developed an end-to-end Python desktop application (PySide6, SQLite) for tracking fleet service and cost across vehicles, equipment, and tools
-    - Created custom UI debugging tools to trace a widget-clipping defect to a table framework's default cell padding
-    - Resolved an LGPL requirement by selecting modular packaging over a single-file executable
-    - Designed [dashboards](https://odslog-manual.netlify.app/dashboard#summary-tab) translating raw fleet data into actionable maintenance insights
-    - Authored a full user manual covering installation, screens, and database structure
+    - Identified a structural flaw in an over-normalized schema AI couldn't catch and redesigned it into the application's core template system
+    - Built custom debug tooling to diagnose a Qt clipping defect after standard fixes failed, tracing it to a framework-level default setting
+    - Integrated an in-app sample database generator to evaluate [dashboards](https://odslog-manual.netlify.app/dashboard#summary-tab) at real fleet scale, surfacing what tasks need attention first
+    - Authored a user manual enabling full self-service onboarding for a solo-built application with no support team
 
 ## Background
 
